@@ -1,6 +1,6 @@
 # Data-Science-Mining-Stack-Exchange
 
-In this project, you we collected data from Arqade questions on StackExchange Q&A sites.
+In this project, we collected data from Arqade questions on StackExchange Q&A sites.
 
 1. Downloaded 1,000 most recent (“newest”) questions.
 
